@@ -108,10 +108,10 @@ Here are selected end-to-end projects demonstrating real-world business impact a
 
 I am actively open to discussing data analyst internships, analytics engineering projects, and full-time junior data roles. Feel free to reach out:
 
-**Email:** [rifasahadiarto5@gmail.com](mailto:rifasahadiarto5@gmail.com)
-**LinkedIn:** [linkedin.com/in/rifasahadiarto](https://linkedin.com/in/rifasahadiarto)
-**Tableau Public:** [public.tableau.com](https://public.tableau.com/)
-**GitHub:** [github.com/RifasaHadiarto](https://github.com/RifasaHadiarto)
+* **Email:** [rifasahadiarto5@gmail.com](mailto:rifasahadiarto5@gmail.com)
+* **LinkedIn:** [linkedin.com/in/rifasahadiarto](https://linkedin.com/in/rifasahadiarto)
+* **Tableau Public:** [public.tableau.com](https://public.tableau.com/)
+* **GitHub:** [github.com/RifasaHadiarto](https://github.com/RifasaHadiarto)
 
 <div align="center">
   <sub>Designed & engineered with precision by Rifasa Hadiarto • 2026</sub>
