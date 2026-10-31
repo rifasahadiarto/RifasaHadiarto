@@ -1,7 +1,7 @@
 <div align="center">
 
-# Hi there, I'm Rifasa Hadiarto 👋
-### 📊 Certified Data Analyst (BNSP) | Analytics Engineer | Cloud DataOps
+# Hi there, I'm Rifasa Hadiarto 
+###  Certified Data Analyst (BNSP) | Analytics Engineer | Cloud DataOps
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0284C7&center=true&vCenter=true&width=650&lines=Data+Analysis+%26+Business+Intelligence;Advanced+SQL+%26+Window+Functions;Automated+Cloud+ETL+Pipelines+(n8n);Indonesian+NLP+%26+Sentiment+Analytics;BNSP+Certified+Data+Analyst)](https://git.io/typing-svg)
 
@@ -16,18 +16,18 @@
 
 ---
 
-## 📌 About Me
+##  About Me
 
 I am a **BNSP Certified Data Analyst** and aspiring **Analytics Engineer** with a passion for transforming messy, unstructured real-world data into automated pipelines, executive-ready BI dashboards, and actionable business intelligence.
 
-* 🎓 **Certified Competence:** Officially assessed and certified under **BNSP RI (Badan Nasional Sertifikasi Profesi)** for professional Data Analytics competencies.
-* 🛠️ **Full Data Lifecycle Expertise:** From automated cloud ingestion (n8n, REST APIs) $\rightarrow$ deterministic data cleaning (Python, JavaScript, SQL CTEs/Window Functions) $\rightarrow$ interactive dashboard architecture (Tableau, Looker Studio) $\rightarrow$ AI-powered cognitive executive summaries (Google Gemini).
-* 🎯 **Domain Experience:** BUMN Grid Operational KPIs (PT PLN Persero UP3 Cimahi), Education & Tuition Subsidy Modeling (TK Nusantara), and Indonesian Social Media NLP.
-* 💼 **Objective:** Seeking **Data Analyst / Business Intelligence / Analytics Engineering** Internship roles where I can deliver measurable operational efficiency and revenue impact.
+*  **Certified Competence:** Officially assessed and certified under **BNSP RI (Badan Nasional Sertifikasi Profesi)** for professional Data Analytics competencies.
+*  **Full Data Lifecycle Expertise:** From automated cloud ingestion (n8n, REST APIs) $\rightarrow$ deterministic data cleaning (Python, JavaScript, SQL CTEs/Window Functions) $\rightarrow$ interactive dashboard architecture (Tableau, Looker Studio) $\rightarrow$ AI-powered cognitive executive summaries (Google Gemini).
+*  **Domain Experience:** BUMN Grid Operational KPIs (PT PLN Persero UP3 Cimahi), Education & Tuition Subsidy Modeling (TK Nusantara), and Indonesian Social Media NLP.
+*  **Objective:** Seeking **Data Analyst / Business Intelligence / Analytics Engineering** Internship roles where I can deliver measurable operational efficiency and revenue impact.
 
 ---
 
-## 🛠️ Technical Stack & Tooling
+##  Technical Stack & Tooling
 
 <div align="center">
 
@@ -43,11 +43,11 @@ I am a **BNSP Certified Data Analyst** and aspiring **Analytics Engineer** with 
 
 ---
 
-## 🚀 Featured Data Analytics & Engineering Projects
+##  Featured Data Analytics & Engineering Projects
 
 Here are selected end-to-end projects demonstrating real-world business impact and technical depth:
 
-### 1. ⚡ [PT PLN UP3 Cimahi — Operations & NKO Reliability Dashboard](https://github.com/RifasaHadiarto/pln-operational-monitoring-dashboard)
+### 1. [PT PLN UP3 Cimahi — Operations & NKO Reliability Dashboard](https://github.com/RifasaHadiarto/pln-operational-monitoring-dashboard)
 > **Stack:** Google Looker Studio • Google Sheets ETL • Corporate KPI Modeling  
 > **Domain:** BUMN Energy & Utility Infrastructure  
 * Designed an executive operations dashboard monitoring **1,305.72 target points** across PT PLN (Persero) UP3 Cimahi's reliability indicators.
@@ -56,7 +56,7 @@ Here are selected end-to-end projects demonstrating real-world business impact a
 
 ---
 
-### 2. 🏫 [TK Nusantara — Admissions Analytics & Sliding-Scale Tuition Subsidy Modeling](https://github.com/RifasaHadiarto/tk-nusantara-admissions-analytics)
+### 2. [TK Nusantara — Admissions Analytics & Sliding-Scale Tuition Subsidy Modeling](https://github.com/RifasaHadiarto/tk-nusantara-admissions-analytics)
 > **Stack:** Tableau Public • Advanced SQL (Window Functions, CTEs) • Python (`openpyxl`) • UU PDP / PII Compliance  
 > **Domain:** Education Operations & Financial Aid Optimization  
 * Processed 285 raw Google Form admissions, resolving registration duplicates down to 104 verified student profiles while strictly enforcing data privacy (anonymizing PII / NIK).
@@ -66,7 +66,7 @@ Here are selected end-to-end projects demonstrating real-world business impact a
 
 ---
 
-### 3. 💬 [YouTube Comments Sentiment Analysis & Indonesian NLP Pipeline](https://github.com/RifasaHadiarto/youtube-sentiment-analysis-indonesian)
+### 3. [YouTube Comments Sentiment Analysis & Indonesian NLP Pipeline](https://github.com/RifasaHadiarto/youtube-sentiment-analysis-indonesian)
 > **Stack:** Python (Google Colab) • YouTube Data API v3 • RegEx Slang Normalization • Seaborn  
 > **Domain:** Social Listening & Brand Sentiment  
 * Automated extraction of YouTube video comments using Google Cloud API pagination handling.
@@ -76,7 +76,7 @@ Here are selected end-to-end projects demonstrating real-world business impact a
 
 ---
 
-### 4. 🤖 [Autonomous Cloud DataOps ETL Pipeline & GenAI Executive Reporting](https://github.com/RifasaHadiarto/automated-etl-pipeline-n8n)
+### 4. [Autonomous Cloud DataOps ETL Pipeline & GenAI Executive Reporting](https://github.com/RifasaHadiarto/automated-etl-pipeline-n8n)
 > **Stack:** n8n Cloud Automation • Google Drive API • JavaScript Sanitizer • Google Sheets • Google Gemini AI • Discord Webhook  
 > **Domain:** Event-Driven Data Engineering & GenAI Ops  
 * Built a zero-touch event-driven ETL pipeline triggering on raw file drops in Google Drive.
@@ -87,15 +87,15 @@ Here are selected end-to-end projects demonstrating real-world business impact a
 
 ---
 
-## 🏅 Certifications & Professional Credentials
+## Certifications & Professional Credentials
 
-* 📜 **Certified Data Analyst (Skema Analis Data)** — **BNSP RI (Badan Nasional Sertifikasi Profesi)**
+**Certified Data Analyst (Skema Analis Data)** — **BNSP RI (Badan Nasional Sertifikasi Profesi)**
   * *Competency Units:* Data Ingestion, Data Quality Cleansing, Advanced Spreadsheet Modeling, SQL Relational Querying, Business Intelligence Visualization, and Statistical Reporting.
   * Verified through comprehensive 12-page Technical Competency Assessment (Dokumen Informasi Terperinci / DIT).
 
 ---
 
-## 📈 GitHub Activity & Statistics
+## GitHub Activity & Statistics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RifasaHadiarto&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Rifasa's GitHub Stats" />
@@ -104,14 +104,14 @@ Here are selected end-to-end projects demonstrating real-world business impact a
 
 ---
 
-## 📬 Let's Connect & Collaborate!
+## Let's Connect & Collaborate!
 
 I am actively open to discussing data analyst internships, analytics engineering projects, and full-time junior data roles. Feel free to reach out:
 
-* 📧 **Email:** [rifasahadiarto5@gmail.com](mailto:rifasahadiarto5@gmail.com)
-* 💼 **LinkedIn:** [linkedin.com/in/rifasahadiarto](https://linkedin.com/in/rifasahadiarto)
-* 🌐 **Tableau Public:** [public.tableau.com](https://public.tableau.com/)
-* 💻 **GitHub:** [github.com/RifasaHadiarto](https://github.com/RifasaHadiarto)
+**Email:** [rifasahadiarto5@gmail.com](mailto:rifasahadiarto5@gmail.com)
+**LinkedIn:** [linkedin.com/in/rifasahadiarto](https://linkedin.com/in/rifasahadiarto)
+**Tableau Public:** [public.tableau.com](https://public.tableau.com/)
+**GitHub:** [github.com/RifasaHadiarto](https://github.com/RifasaHadiarto)
 
 <div align="center">
   <sub>Designed & engineered with precision by Rifasa Hadiarto • 2026</sub>
