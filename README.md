@@ -5,12 +5,3 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0284C7&center=true&vCenter=true&width=650&lines=Data+Analysis+%26+Business+Intelligence;Advanced+SQL+%26+Window+Functions;Automated+Cloud+ETL+Pipelines+(n8n);Indonesian+NLP+%26+Sentiment+Analytics;BNSP+Certified+Data+Analyst)](https://git.io/typing-svg)
 
-
-* **Email:** [rifasahadiarto5@gmail.com](mailto:rifasahadiarto5@gmail.com)
-* **LinkedIn:** [linkedin.com/in/rifasahadiarto](https://linkedin.com/in/rifasahadiarto)
-* **Tableau Public:** [public.tableau.com](https://public.tableau.com/)
-* **GitHub:** [github.com/RifasaHadiarto](https://github.com/RifasaHadiarto)
-
-<div align="center">
-  <sub>Designed & engineered with precision by Rifasa Hadiarto • 2026</sub>
-</div>
